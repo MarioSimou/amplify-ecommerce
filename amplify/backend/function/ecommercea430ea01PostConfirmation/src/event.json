@@ -1,0 +1,10 @@
+{
+  "userPoolId": "testID",
+  "userName": "testUser",
+  "request": {
+    "userAttributes": {
+      "email": "hoyahob974@shackvine.com"
+    }
+  },
+  "response": {}
+}

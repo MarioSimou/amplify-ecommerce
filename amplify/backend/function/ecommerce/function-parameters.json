@@ -1,0 +1,9 @@
+{
+  "lambdaLayers": [],
+  "environmentVariableList": [
+    {
+      "cloudFormationParameterName": "dynamodbProductsTableName",
+      "environmentVariableName": "DYNAMODB_PRODUCTS_TABLE_NAME"
+    }
+  ]
+}

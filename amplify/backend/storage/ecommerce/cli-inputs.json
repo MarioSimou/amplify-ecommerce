@@ -1,0 +1,10 @@
+{
+  "resourceName": "ecommerce",
+  "tableName": "products",
+  "partitionKey": {
+    "fieldName": "guid",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
